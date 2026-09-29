@@ -1,0 +1,271 @@
+Employee_ID,Designation,Experience,Education,Location,Performance_Score,Salary,Salary_Increment
+EMP_031,Tech Lead,9,PhD,Chennai,1.0,2113000.0,3.4
+EMP_117,Data Analyst,1,Bachelor's,Hyderabad,3.0,564000.0,3.7
+EMP_080,Junior Developer,0,Bachelor's,Hyderabad,4.0,947000.0,6.5
+EMP_128,Data Analyst,0,Bachelor's,Hyderabad,4.0,774000.0,7.9
+EMP_197,Project Manager,6,Bachelor's,Bangalore,5.0,2111000.0,8.6
+EMP_138,Project Manager,5,MBA,Mumbai,5.0,2072000.0,9.0
+EMP_210,Software Engineer,5,Bachelor's,Bangalore,2.0,1138000.0,4.3
+EMP_046,Tech Lead,17,Master's,Bangalore,4.0,2981000.0,10.0
+EMP_159,Software Engineer,4,Bachelor's,Hyderabad,,968000.0,4.6
+EMP_248,HR Executive,-1,MBA,Bangalore,2.0,575000.0,5.0
+EMP_184,Data Analyst,0,Bachelor's,Bangalore,5.0,826000.0,10.3
+EMP_025,Senior Software Engineer,9,Bachelor's,BANGALORE,3.0,831000.0,4.5
+EMP_228,Software Engineer,6,MBA,Pune,5.0,1110000.0,8.4
+EMP_083,Software Engineer,3,Master's,Hyderabad,4.0,972000.0,8.4
+EMP_166,Data Analyst,1,Bachelor's,Mumbai,4.0,850000.0,6.6
+EMP_195,Software Engineer,5,MBA,Chennai,4.0,1024000.0,7.9
+EMP_227,HR Executive,2,Bachelor's,Pune,4.0,709000.0,7.8
+EMP_147,Tech Lead,10,Bachelor's,Hyderabad,3.0,2102000.0,7.2
+EMP_105,HR Executive,0,Bachelor's,Chennai,3.0,486000.0,6.5
+EMP_061,Software Engineer,5,Bachelor's,Mumbai,4.0,1124000.0,6.1
+EMP_222,Senior Software Engineer,9,Bachelor's,Delhi,3.0,1734000.0,6.0
+EMP_180,Junior Developer,0,Master's,Bangalore,5.0,677000.0,9.7
+EMP_047,Software Engineer,4,MBA,Hyderabad,4.0,1109000.0,5.9
+EMP_043,Junior Developer,1,PhD,Bangalore,4.0,804000.0,7.0
+EMP_186,Tech Lead,8,Bachelor's,Delhi,,2162000.0,6.5
+EMP_010,Project Manager,4,Bachelor's,Chennai,3.0,1453000.0,6.4
+EMP_023,Software Engineer,2,Master's,Delhi,3.0,952000.0,6.0
+EMP_200,Project Manager,4,Bachelor's,Pune,5.0,1715000.0,9.4
+EMP_110,Junior Developer,1,MBA,Bangalore,5.0,791000.0,9.1
+EMP_025,Senior Software Engineer,9,Bachelor's,BANGALORE,3.0,831000.0,4.5
+EMP_114,Data Analyst,0,Bachelor's,Bangalore,5.0,749000.0,10.4
+EMP_069,Junior Developer,2,Bachelor's,Chennai,3.0,284000.0,10.0
+EMP_145, Senior Software Engineer ,4,Master's,Hyderabad,3.0,956000.0,5.2
+EMP_225,Software Engineer,2,MBA ,Hyderabad,4.0,877000.0,7.5
+EMP_253,Data Analyst,0,Master's,Hyderabad,3.0,705000.0,7.4
+EMP_007,Junior Developer,0,Master's,Pune,4.0,629000.0,7.3
+EMP_121,Data Analyst,1,Master's,Mumbai,3.0,844000.0,6.4
+EMP_068,Data Analyst,0,MBA,Mumbai,3.0,813000.0,6.9
+EMP_120,Senior Software Engineer,9,Master's,Bangalore,4.0,1981000.0,8.3
+EMP_119,HR Executive,1,Master's,Pune,5.0,705000.0,8.5
+EMP_026,Data Analyst,0,Bachelor's,Mumbai,4.0,733000.0,8.1
+EMP_126,Senior Software Engineer,6,,Delhi,5.0,1741000.0,8.4
+EMP_245,Junior Developer,0,Master's,Chennai,4.0,682000.0,6.4
+EMP_020,Software Engineer,6,Diploma,Delhi,2.0,1110000.0,2.9
+EMP_078,Junior Developer,1,Bachelor's,Mumbai,3.0,548000.0,7.0
+EMP_217,Software Engineer,5,Bachelor's,Bangalore,2.0,1101000.0,5.4
+EMP_091,Junior Developer,0,Bachelor's,Delhi,2.0,414000.0,2.8
+EMP_209,Junior Developer,0,Master's,Mumbai,2.0,404000.0,4.6
+EMP_094,Senior Software Engineer,11,Master's,Bangalore,2.0,2111000.0,4.3
+EMP_181,Software Engineer,5,PhD,Chennai,4.0,1132000.0,7.4
+EMP_016,Software Engineer,4,Bachelor's,Mumbai,2.0,945000.0,5.4
+EMP_153,Junior Developer,0,Master's,Mumbai,4.0,642000.0,8.5
+EMP_233,Senior Software Engineer,9,Bachelor's,Chennai,1.0,,1.2
+EMP_251,,6,Master's,Pune,2.0,1081000.0,25.0
+EMP_116,Data Analyst,2,Master's,Bangalore,2.0,983000.0,5.2
+EMP_034,,2,Bachelor's,Delhi,2.0,572000.0,2.4
+EMP_185,Software Engineer,4,bachelors,Hyderabad,4.0,1094000.0,9.1
+EMP_143,Senior Software Engineer,9,Bachelor's,Delhi,3.0,1862000.0,4.6
+EMP_198,HR Executive,2,Bachelor's,Chennai,5.0,,7.1
+EMP_038,Junior Developer,1,Master's,Hyderabad,4.0,677000.0,7.4
+EMP_017,Software Engineer,3,Bachelor's,Pune,4.0,1018000.0,8.6
+EMP_076,Project Manager,3,Bachelor's,Hyderabad,3.0,891000.0,5.8
+EMP_149,Junior Developer,0,Master's,Bangalore,5.0,797000.0,8.2
+EMP_011,Junior Developer,1,Bachelor's,Chennai,5.0,595000.0,7.8
+EMP_234,Senior Software Engineer,9,Bachelor's,Delhi,2.0,1670000.0,4.7
+EMP_067,Junior Developer,2,Bachelor's,Hyderabad,1.0,449000.0,4.1
+EMP_254,Software Engineer,3,Bachelor's,Mumbai,4.0,1046000.0,6.9
+EMP_226,Software Engineer,5,Bachelor's,Hyderabad,2.0,870000.0,5.1
+EMP_183,HR Executive,0,MBA,Hyderabad,4.0,655000.0,9.2
+EMP_074,Data Analyst,1,Master's,Hyderabad,3.0,927000.0,-3.0
+EMP_019,Senior Software Engineer,12,Master's,Delhi,5.0,2125000.0,9.4
+EMP_102,Tech Lead,16,Bachelor's,Mumbai,3.0,2727000.0,6.1
+EMP_196,Software Engineer,2,Bachelor's,Bangalore,2.0,853000.0,5.9
+EMP_113,HR Executive,2,MBA,Mumbai,3.0,866000.0,6.2
+EMP_171,Tech Lead,11,Bachelor's,Bangalore,1.0,2353000.0,0.7
+EMP_087,Project Manager,6,Bachelor's,Bangalore,3.0,1847000.0,5.8
+EMP_056,Intern,1,Bachelor's,Mumbai,5.0,785000.0,10.7
+EMP_098,Unknown,12,Bachelor's,Delhi,1.0,1835000.0,4.2
+EMP_201,Tech Lead,16,Master's,Mumbai,1.0,2773000.0,3.7
+EMP_039,Project Manager,6,Bachelor's,Pune,4.0,1702000.0,8.4
+EMP_155,HR Executive,2,MBA,Remote,5.0,783000.0,10.3
+EMP_085,Software Engineer,3,Bachelor's,Delhi,3.0,831000.0,6.3
+EMP_252,Software Engineer,3,Bachelor's,Hyderabad,5.0,1074000.0,11.6
+EMP_093,Project Manager,6,MBA,Chennai,5.0,1783000.0,11.3
+EMP_202,Junior Developer,1,MBA,Chennai,4.0,323000.0,7.7
+EMP_127,Data Analyst,0,Master's,Hyderabad,5.0,756000.0,7.8
+EMP_125,Software Engineer,4,Master's,Mumbai,4.0,1121000.0,7.8
+EMP_079,,2,PhD,Chennai,4.0,934000.0,8.8
+EMP_182,Junior Developer,1,Bachelor's,Hyderabad,4.0,602000.0,8.6
+EMP_112,Software Engineer,6,Master's,Chennai,4.0,1052000.0,7.2
+EMP_230,Tech Lead,14,Master's,Bangalore,4.0,2907000.0,6.7
+EMP_258,Project Manager,6,Bachelor's,Bangalore,3.0,1919000.0,6.5
+EMP_031,Tech Lead,9,PhD,Chennai,1.0,2113000.0,3.4
+EMP_211,Senior Software Engineer,45,Master's,Chennai,,1693000.0,5.4
+EMP_194,Tech Lead,12,Bachelor's,Delhi,2.0,2325000.0,3.4
+EMP_156,Software Engineer,3,Bachelor's,Pune,5.0,971000.0,10.6
+EMP_070,HR Executive,2,Master's,Hyderabad,4.0,670000.0,6.5
+EMP_003,Project Manager,4,MBA,Hyderabad,2.0,1646000.0,7.4
+EMP_077,Project Manager,6,Master's,Bangalore,3.0,2113000.0,7.1
+EMP_148,Senior Software Engineer,5,Bachelor's,Chennai,3.0,1397000.0,7.9
+EMP_140,HR Executive,2,Bachelor's,Bangalore,4.0,621000.0,7.8
+EMP_144,Software Engineer,4,Bachelor's,Hyderabad,4.0,931000.0,7.6
+EMP_097,Senior Software Engineer,6,Bachelor's,Chennai,2.0,1521000.0,4.7
+EMP_109,Software Engineer,6,Bachelor's,Chennai,3.0,1055000.0,6.8
+EMP_141,HR Executive,0,Bachelor's,Bangalore,4.0,551000.0,6.1
+EMP_174,Software Engineer,3,Bachelor's,Mumbai,2.0,860000.0,1.0
+EMP_220,Data Analyst,1,Bachelor's,Chennai,3.0,752000.0,7.0
+EMP_075,Project Manager,6,Bachelor's,Hyderabad,5.0,1744000.0,8.6
+EMP_118,Software Engineer,3,Bachelor's,Bangalore,2.0,962000.0,4.0
+EMP_030,Junior Developer,2,Master's,Mumbai,2.0,773000.0,2.9
+EMP_216,Software Engineer,2,Bachelor's,Mumbai,0.0,936000.0,7.7
+EMP_193,HR Executive,2,Master's,Delhi,5.0,786000.0,10.7
+EMP_235,Software Engineer,3,Master's,Pune,5.0,972000.0,12.0
+EMP_178,Software Engineer,6,MBA,Bangalore,5.0,1414000.0,8.1
+EMP_185,Software Engineer,4,bachelors,Hyderabad,4.0,1094000.0,9.1
+EMP_006,Junior Developer,1,MBA,Bangalore,5.0,729000.0,11.1
+EMP_057,Junior Developer,0,Bachelor's,Hyderabad,4.0,419000.0,9.9
+EMP_260,Junior Developer,0,Bachelor's,Chennai,5.0,579000.0,10.0
+EMP_176,Software Engineer,5,,Mumbai,5.0,1162000.0,9.2
+EMP_165,Junior Developer,1,Bachelor's,Hyderabad,5.0,626000.0,9.4
+EMP_066,Senior Software Engineer,10,Bachelor's,Pune,4.0,2950000.0,5.7
+EMP_158,Project Manager,3,Master's,Mumbai,3.0,1790000.0,7.7
+EMP_086,Software Engineer,2,Bachelor's,Bangalore,5.0,1009000.0,12.0
+EMP_115,Tech Lead,12,Master's,Bangalore,1.0,2467000.0,0.0
+EMP_246,HR Executive,1,Bachelor's,Chennai,3.0,564000.0,7.5
+EMP_173,Senior Software Engineer,9,Master's,Hyderabad,5.0,,10.2
+EMP_032,Software Engineer,3,Master's,MUMBAI,5.0,1166000.0,8.1
+EMP_013,Data Analyst,0,Bachelor's,Hyderabad,3.0,811000.0,7.4
+EMP_036,Data Analyst,2,MBA,Hyderabad,4.0,1006000.0,10.2
+EMP_029,Tech Lead,14,Bachelor's,Mumbai,2.0,2479000.0,5.0
+EMP_133,Junior Developer,0,Bachelor's, bangalore,4.0,470000.0,5.9
+EMP_052,Project Manager,5,Bachelor's,Bangalore,1.0,1692000.0,2.2
+EMP_096,Senior Software Engineer,8,Master's,Hyderabad,1.0,1663000.0,0.0
+EMP_168,Software Engineer,4,Bachelor's,Bangalore,3.0,961000.0,10.0
+EMP_180,Junior Developer,0,Master's,Bangalore,5.0,677000.0,9.7
+EMP_042,Senior Software Engineer,6,Bachelor's,Hyderabad,5.0,1562000.0,9.4
+EMP_247,Senior Software Engineer,6,Bachelor's,Bangalore,1.0,1589000.0,2.1
+EMP_177,Project Manager,2,Bachelor's,Mumbai,2.0,1546000.0,5.3
+EMP_137,Senior Software Engineer,12,Bachelor's,Bangalore,1.0,-300000.0,1.8
+EMP_027,Software Engineer,5,Bachelor's,Mumbai,4.0,1065000.0,6.6
+EMP_201,Tech Lead,16,Master's,Mumbai,1.0,2773000.0,3.7
+EMP_142,Software Engineer,2,Master's,Hyderabad,3.0,938000.0,7.2
+EMP_160,Project Manager,2,Master's,Bangalore,3.0,1691000.0,7.7
+EMP_001,Software Engineer,3,Bachelor's,Hyderabad,2.0,0.0,3.1
+EMP_232,Senior Software Engineer,11,MBA,Bangalore,3.0,2134000.0,7.1
+EMP_101,Junior Developer,1,Bachelor's,Pune,3.0,503000.0,3.1
+EMP_242,HR Executive,2,Bachelor's,Bangalore,2.0,769000.0,4.1
+EMP_203,Software Engineer,2,Bachelor's,Mumbai,3.0,1335000.0,5.4
+EMP_099,Junior Developer,2,Bachelor's,Mumbai,3.0,781000.0,3.7
+EMP_037,Software Engineer,2,Bachelor's,Pune,5.0,925000.0,11.8
+EMP_062,Software Engineer,6,Bachelor's,Pune,2.0,630000.0,2.7
+EMP_151,HR Executive,2,Master's,Bangalore,3.0,741000.0,5.2
+EMP_213,JUNIOR DEVELOPER,16,Master's,Bangalore,,2744000.0,5.8
+EMP_257,HR Executive,1,,Bangalore,4.0,622000.0,7.3
+EMP_012,HR Executive,2,Master's,Hyderabad,2.0,747000.0,4.8
+EMP_091,Junior Developer,0,Bachelor's,Delhi,2.0,414000.0,2.8
+EMP_231,Data Analyst,0,Bachelor's,Pune,4.0,769000.0,7.9
+EMP_028,Senior Software Engineer,7,Bachelor's,Mumbai,3.0,1763000.0,5.2
+EMP_179,HR Executive,0,Bachelor's,Hyderabad,3.0,535000.0,4.0
+EMP_005,Junior Developer,1,Bachelor's,Hyderabad,3.0,456000.0,10.0
+EMP_123,Software Engineer,3,Master's,Chennai,5.0,1068000.0,10.3
+EMP_033,Junior Developer,2,Bachelor's,Pune,1.0,491000.0,3.3
+EMP_205,Tech Lead,11,Bachelor's,Pune,1.0,2022000.0,3.8
+EMP_163,Tech Lead,17,Bachelor's,Hyderabad,1.0,2643000.0,2.0
+EMP_169,Junior Developer,0,Bachelor's,Chennai,1.0,356000.0,1.3
+EMP_207,Junior Developer,1,Bachelor's,Pune,4.0,637000.0,5.0
+EMP_139,Software Engineer,3,Master's,Bangalore,4.0,1099000.0,9.9
+EMP_063,Data Analyst,1,Bachelor's,Mumbai,2.0,759000.0,4.3
+EMP_136,Software Engineer,5,Master's,Chennai,3.0,949000.0,3.7
+EMP_129,Junior Developer,0,Master's,Delhi,2.0,561000.0,4.6
+EMP_072,Software Engineer,3,Bachelor's,Hyderabad,3.0,991000.0,5.7
+EMP_244,Software Engineer,5,Master's,Pune,3.0,1077000.0,8.6
+EMP_071,Project Manager,5,MBA,,4.0,2064000.0,9.4
+EMP_223,Junior Developer,2,MBA,Hyderabad,2.0,638000.0,4.3
+EMP_065,,3,Bachelor's,Bangalore,4.0,1130000.0,8.9
+EMP_045,Software Engineer,5,Bachelor's,Bangalore,4.0,1147000.0,9.3
+EMP_187,Data Analyst,2,Master's,Hyderabad,5.0,1007000.0,10.3
+EMP_157,Tech Lead,10,PhD,Bangalore,3.0,2537000.0,5.6
+EMP_041,Junior Developer,1,Bachelor's,Pune,2.0,470000.0,5.1
+EMP_124,Junior Developer,1,PhD,Bangalore,5.0,968000.0,10.9
+EMP_154,Senior Software Engineer,9,Bachelor's,Bangalore,1.0,1840000.0,1.3
+EMP_024,Software Engineer,5,Bachelor's,Pune,3.0,895000.0,7.4
+EMP_218,Project Manager,5,,Delhi,3.0,1746000.0,6.1
+EMP_214,Software Engineer,4,Master's,Mumbai,3.0,2005000.0,3.5
+EMP_082,Tech Lead,17,Bachelor's,Pune,4.0,2480000.0,7.4
+EMP_040,Senior Software Engineer,10,Bachelor's,Delhi,3.0,1818000.0,7.5
+EMP_241,HR Executive,2,PhD,Chennai,3.0,728000.0,6.5
+EMP_048,Senior Software Engineer,8,MBA,Chennai,5.0,1623000.0,8.2
+EMP_095,Project Manager,4,Master's,Pune,1.0,1604000.0,2.7
+EMP_221,Tech Lead,12,Bachelor's,Hyderabad,4.0,2408000.0,7.6
+EMP_237,Software Engineer,3,MBA,Mumbai,4.0,1115000.0,8.9
+EMP_162,Tech Lead,15,Bachelor's,Hyderabad,5.0,2698000.0,12.0
+EMP_044,HR Executive,0,Unknown,Hyderabad,4.0,599000.0,8.9
+EMP_146,Junior Developer,-2,Bachelor's,Mumbai,3.0,405000.0,5.4
+EMP_191,Junior Developer,0,Master's,Hyderabad,3.0,442000.0,6.5
+EMP_212,Project Manager,6,Master's,Mumbai,4.0,2067000.0,9.3
+EMP_004,Tech Lead,17,MBA,Hyderabad,4.0,2865000.0,8.4
+EMP_106,Software Engineer,2,Bachelor's,Chennai,4.0,873000.0,10.3
+EMP_054,HR Executive,2,Master's,Pune,1.0,586000.0,2.7
+EMP_134,Software Engineer,5,Bachelor's,Hyderabad,2.0,1061000.0,5.8
+EMP_002,HR Executive,2,master's ,Bangalore,4.0,838000.0,8.0
+EMP_224,Software Engineer,5,Bachelor's,Chennai,4.0,899000.0,8.6
+EMP_104,Senior Software Engineer,10,Master's,Chennai,3.0,,6.9
+EMP_050,Software Engineer,2,Bachelor's,Hyderabad,4.0,950000.0,6.0
+EMP_164,Senior Software Engineer,6,Bachelor's,Hyderabad,3.0,1505000.0,4.7
+EMP_081,Data Analyst,0,Master's,Hyderabad,3.0,767000.0,5.8
+EMP_206,Junior Developer,0,Bachelor's,Delhi,4.0,591000.0,8.6
+EMP_035,HR Executive,1,MBA,Bangalore,3.0,780000.0,5.4
+EMP_238,Junior Developer,0,Master's,Hyderabad,3.0,454000.0,3.5
+EMP_008,Data Analyst,0,Bachelor's,Chennai,4.0,697000.0,6.6
+EMP_172,Junior Developer,1,Bachelor's,Delhi,3.0,927000.0,7.3
+EMP_199,HR Executive,0,Master's,Pune,3.0,550000.0,6.5
+EMP_243,HR Executive,1,Master's,Hyderabad,4.0,713000.0,7.8
+EMP_111,Software Engineer,3,Bachelor's,Chennai,4.0,905000.0,7.4
+EMP_092,Project Manager,6,Master's,Chennai,3.0,1680000.0,5.2
+EMP_084,Junior Developer,0,Master's,Mumbai,3.0,577000.0,6.5
+EMP_130,Senior Software Engineer,8,Bachelor's,,3.0,1621000.0,4.9
+EMP_053,HR Executive,0,Bachelor's,Pune,4.0,551000.0,7.3
+EMP_090,Senior Software Engineer,12,Master's,Pune,1.0,1829000.0,0.7
+EMP_009,Tech Lead,16,Master's,Chennai,5.0,2511000.0,9.9
+EMP_014,Software Engineer,3,Bachelor's,Mumbai,7.0,862000.0,5.0
+EMP_060,Software Engineer,4,Bachelor's,,2.0,958000.0,2.5
+EMP_249,HR Executive,0,Bachelor's,Pune,3.0,,8.7
+EMP_132,Software Engineer,3,MBA,Delhi,3.0,1008000.0,5.5
+EMP_018,Senior Software Engineer,5,Master's,Bangalore,4.0,1608000.0,8.7
+EMP_167,Software Engineer,3,MBA,Chennai,3.0,914000.0,6.6
+EMP_073,Junior Developer,2,MBA,Hyderabad,4.0,714000.0,7.9
+EMP_255,Software Engineer,4,Master's,Bangalore,3.0,662000.0,6.5
+EMP_135,HR Executive,2,Master's,Chennai,1.0,494000.0,3.9
+EMP_250,Data Analyst,1,MBA,Bangalore,5.0,1015000.0,10.5
+EMP_229,HR Executive,0,Bachelor's,Bangalore,2.0,545000.0,4.3
+EMP_259,Senior Software Engineer,9,MBA,Delhi,2.0,1753000.0,3.6
+EMP_064,Software Engineer,5,Master's,Chennai,3.0,1114000.0,6.2
+EMP_055,Tech Lead,11,Bachelor's,Chennai,,2202000.0,6.3
+EMP_108,Project Manager,5,Bachelor's,Delhi,3.0,1615000.0,6.6
+EMP_051,HR Executive,0,Bachelor's,Bangalore,4.0,642000.0,9.4
+EMP_239,Tech Lead,10,MBA,Mumbai,4.0,2491000.0,1.0
+EMP_175,Tech Lead,15,Bachelor's,Unknown,5.0,2621000.0,9.6
+EMP_240,Software Engineer,6,Bachelor's,Hyderabad,4.0,1102000.0,7.5
+EMP_190,Software Engineer,3,Bachelor's,Delhi,2.0,836000.0,4.5
+EMP_015,Software Engineer,3,Bachelor's,Chennai,3.0,790000.0,6.6
+EMP_208,Tech Lead,10,Bachelor's,Bangalore,3.0,2535000.0,6.3
+EMP_256,Senior Software Engineer,6,Master's,Mumbai,4.0,1724000.0,5.8
+EMP_220,Data Analyst,1,Bachelor's,Chennai,3.0,752000.0,7.0
+EMP_170,Tech Lead,14,Bachelor's,Mumbai,4.0,2547000.0,8.6
+EMP_059,,1,Bachelor's,Hyderabad,3.0,598000.0,5.8
+EMP_219,Tech Lead,10,Master's,Mumbai,1.0,2337000.0,1.7
+EMP_049,Senior Software Engineer,9,Bachelor's,Bangalore,5.0,1966000.0,11.1
+EMP_089,HR Executive,0,Bachelor's,Bangalore,5.0,639000.0,8.3
+EMP_236,software engineer,3,PhD,Pune,5.0,1852000.0,9.9
+EMP_022,Junior Developer,2,Master's,Bangalore,3.0,822000.0,5.4
+EMP_058,Software Engineer,5,Bachelor's,Pune,3.0,1041000.0,7.1
+EMP_204,HR Executive,0,Bachelor's,Pune,5.0,524000.0,9.6
+EMP_161,Software Engineer,3,Bachelor's,Pune,1.0,723000.0,0.2
+EMP_182,Junior Developer,1,Bachelor's,Hyderabad,4.0,602000.0,8.6
+EMP_188,Senior Software Engineer,12,Bachelor's,Pune,3.0,1939000.0,6.0
+EMP_192,HR Executive,2,MBA,Mumbai,3.0,823000.0,5.9
+EMP_150,Software Engineer,3,Bachelor's,Bangalore,5.0,1115000.0,10.5
+EMP_131,Senior Software Engineer,12,Bachelor's,Chennai ,4.0,1756000.0,8.8
+EMP_152,Software Engineer,5,Bachelor's,Bangalore,4.0,1291000.0,7.1
+EMP_100,Junior Developer,0,Bachelor's,Chennai,4.0,808000.0,9.4
+EMP_088,Tech Lead,12,Bachelor's,Bangalore,3.0,2552000.0,5.6
+EMP_215,Project Manager,5,Master's,Bangalore,1.0,1839000.0,1.5
+EMP_122,HR Executive,2,MBA,,4.0,714000.0,7.8
+EMP_043,Junior Developer,1,PhD,Bangalore,4.0,804000.0,7.0
+EMP_021,Tech Lead,17,Master's,Bangalore,4.0,3148000.0,7.4
+EMP_189,Senior Software Engineer,8,Bachelor's,Mumbai,2.0,1646000.0,4.9
+EMP_072,Software Engineer,3,Bachelor's,Hyderabad,3.0,991000.0,5.7
+EMP_107,Senior Software Engineer,10,Bachelor's,Mumbai,1.0,1705000.0,1.7
+EMP_103,Software Engineer,6,MBA,Bangalore,2.0,1341000.0,6.9

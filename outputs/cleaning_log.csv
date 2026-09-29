@@ -1,0 +1,12 @@
+Step,Count,Unit
+Categorical values standardised (case/whitespace/aliases) or 'Unknown' -> missing,15,cell values
+Exact duplicate rows removed,10,rows removed
+Performance_Score outside 1-5 set to missing (row kept),2,values
+"Salary_Increment outside 0-15% (-3, 25) set to missing (row kept)",2,values
+  reason (may overlap): Experience invalid (<0 or >40),3,rows
+  reason (may overlap): Salary missing or <=0,7,rows
+  reason (may overlap): Designation missing/Unknown,6,rows
+  reason (may overlap): Education missing/Unknown,5,rows
+  reason (may overlap): Location missing/Unknown,5,rows
+Rows removed for invalid/missing core field,26,rows removed
+Rows retained (final cleaned dataset),234,of 270 raw (86.7%)

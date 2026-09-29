@@ -1,0 +1,8 @@
+Designation,n,spearman_rho,p_value,slope_salary_per_year
+Data Analyst,21,0.573,0.007,101617
+HR Executive,28,0.65,0.0,77927
+Junior Developer,42,0.228,0.147,129204
+Project Manager,21,0.626,0.002,110296
+Senior Software Engineer,29,0.757,0.0,89504
+Software Engineer,66,0.365,0.003,32055
+Tech Lead,26,0.727,0.0,72481

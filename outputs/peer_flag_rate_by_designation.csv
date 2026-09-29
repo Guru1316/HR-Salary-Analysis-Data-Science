@@ -1,0 +1,8 @@
+Designation,n,median_salary,flagged,iqr_of_diff_pct,flag_rate_%
+Data Analyst,21,774000.0,5,15.3,23.8
+HR Executive,28,662500.0,5,32.6,17.9
+Junior Developer,42,614000.0,21,50.8,50.0
+Project Manager,21,1715000.0,1,13.5,4.8
+Senior Software Engineer,29,1734000.0,3,13.0,10.3
+Software Engineer,66,1013500.0,8,16.7,12.1
+Tech Lead,26,2501000.0,0,12.5,0.0

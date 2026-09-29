@@ -1,0 +1,7 @@
+metric,value
+MAE,138596.0
+RMSE,268817.0
+R2_test,0.8012
+R2_5fold_cv_mean,0.9109
+R2_test_designation_experience_only,0.814
+R2_cv_designation_experience_only,0.8893

@@ -1,0 +1,235 @@
+Employee_ID,Designation,Experience,Education,Location,Performance_Score,Salary,Peer_Median_Salary,Peer_N,Peer_Basis,Salary_Diff,Salary_Diff_Pct,Review_Flag
+EMP_031,Tech Lead,9,PhD,Chennai,1.0,2113000.0,2337000.0,9,Designation +/-2 yrs experience,-224000.0,-9.6,Within range
+EMP_117,Data Analyst,1,Bachelor's,Hyderabad,3.0,564000.0,792500.0,20,Designation +/-2 yrs experience,-228500.0,-28.8,Review Candidate - below peer median
+EMP_080,Junior Developer,0,Bachelor's,Hyderabad,4.0,947000.0,598500.0,40,Designation +/-2 yrs experience,348500.0,58.2,Review Candidate - above peer median
+EMP_128,Data Analyst,0,Bachelor's,Hyderabad,4.0,774000.0,790000.0,20,Designation +/-2 yrs experience,-16000.0,-2.0,Within range
+EMP_197,Project Manager,6,Bachelor's,Bangalore,5.0,2111000.0,1729500.0,16,Designation +/-2 yrs experience,381500.0,22.1,Within range
+EMP_138,Project Manager,5,MBA,Mumbai,5.0,2072000.0,1729500.0,18,Designation +/-2 yrs experience,342500.0,19.8,Within range
+EMP_210,Software Engineer,5,Bachelor's,Bangalore,2.0,1138000.0,1046000.0,55,Designation +/-2 yrs experience,92000.0,8.8,Within range
+EMP_046,Tech Lead,17,Master's,Bangalore,4.0,2981000.0,2712500.0,8,Designation +/-2 yrs experience,268500.0,9.9,Within range
+EMP_159,Software Engineer,4,Bachelor's,Hyderabad,,968000.0,1018000.0,65,Designation +/-2 yrs experience,-50000.0,-4.9,Within range
+EMP_184,Data Analyst,0,Bachelor's,Bangalore,5.0,826000.0,771500.0,20,Designation +/-2 yrs experience,54500.0,7.1,Within range
+EMP_025,Senior Software Engineer,9,Bachelor's,Bangalore,3.0,831000.0,1790500.0,16,Designation +/-2 yrs experience,-959500.0,-53.6,Review Candidate - below peer median
+EMP_228,Software Engineer,6,MBA,Pune,5.0,1110000.0,1071000.0,32,Designation +/-2 yrs experience,39000.0,3.6,Within range
+EMP_083,Software Engineer,3,Master's,Hyderabad,4.0,972000.0,991000.0,57,Designation +/-2 yrs experience,-19000.0,-1.9,Within range
+EMP_166,Data Analyst,1,Bachelor's,Mumbai,4.0,850000.0,771500.0,20,Designation +/-2 yrs experience,78500.0,10.2,Within range
+EMP_195,Software Engineer,5,MBA,Chennai,4.0,1024000.0,1052000.0,55,Designation +/-2 yrs experience,-28000.0,-2.7,Within range
+EMP_227,HR Executive,2,Bachelor's,Pune,4.0,709000.0,655000.0,27,Designation +/-2 yrs experience,54000.0,8.2,Within range
+EMP_147,Tech Lead,10,Bachelor's,Hyderabad,3.0,2102000.0,2353000.0,13,Designation +/-2 yrs experience,-251000.0,-10.7,Within range
+EMP_105,HR Executive,0,Bachelor's,Chennai,3.0,486000.0,670000.0,27,Designation +/-2 yrs experience,-184000.0,-27.5,Review Candidate - below peer median
+EMP_061,Software Engineer,5,Bachelor's,Mumbai,4.0,1124000.0,1046000.0,55,Designation +/-2 yrs experience,78000.0,7.5,Within range
+EMP_222,Senior Software Engineer,9,Bachelor's,Delhi,3.0,1734000.0,1790500.0,16,Designation +/-2 yrs experience,-56500.0,-3.2,Within range
+EMP_180,Junior Developer,0,Master's,Bangalore,5.0,677000.0,598500.0,40,Designation +/-2 yrs experience,78500.0,13.1,Within range
+EMP_047,Software Engineer,4,MBA,Hyderabad,4.0,1109000.0,1009000.0,65,Designation +/-2 yrs experience,100000.0,9.9,Within range
+EMP_043,Junior Developer,1,PhD,Bangalore,4.0,804000.0,598500.0,40,Designation +/-2 yrs experience,205500.0,34.3,Review Candidate - above peer median
+EMP_186,Tech Lead,8,Bachelor's,Delhi,,2162000.0,2414000.0,6,Designation +/-2 yrs experience,-252000.0,-10.4,Within range
+EMP_010,Project Manager,4,Bachelor's,Chennai,3.0,1453000.0,1729500.0,20,Designation +/-2 yrs experience,-276500.0,-16.0,Within range
+EMP_023,Software Engineer,2,Master's,Delhi,3.0,952000.0,968000.0,41,Designation +/-2 yrs experience,-16000.0,-1.7,Within range
+EMP_200,Project Manager,4,Bachelor's,Pune,5.0,1715000.0,1723000.0,20,Designation +/-2 yrs experience,-8000.0,-0.5,Within range
+EMP_110,Junior Developer,1,MBA,Bangalore,5.0,791000.0,598500.0,40,Designation +/-2 yrs experience,192500.0,32.2,Review Candidate - above peer median
+EMP_114,Data Analyst,0,Bachelor's,Bangalore,5.0,749000.0,792500.0,20,Designation +/-2 yrs experience,-43500.0,-5.5,Within range
+EMP_069,Junior Developer,2,Bachelor's,Chennai,3.0,284000.0,614000.0,40,Designation +/-2 yrs experience,-330000.0,-53.7,Review Candidate - below peer median
+EMP_145,Senior Software Engineer,4,Master's,Hyderabad,3.0,956000.0,1562000.0,7,Designation +/-2 yrs experience,-606000.0,-38.8,Review Candidate - below peer median
+EMP_225,Software Engineer,2,MBA,Hyderabad,4.0,877000.0,968000.0,41,Designation +/-2 yrs experience,-91000.0,-9.4,Within range
+EMP_253,Data Analyst,0,Master's,Hyderabad,3.0,705000.0,792500.0,20,Designation +/-2 yrs experience,-87500.0,-11.0,Within range
+EMP_007,Junior Developer,0,Master's,Pune,4.0,629000.0,598500.0,40,Designation +/-2 yrs experience,30500.0,5.1,Within range
+EMP_121,Data Analyst,1,Master's,Mumbai,3.0,844000.0,771500.0,20,Designation +/-2 yrs experience,72500.0,9.4,Within range
+EMP_068,Data Analyst,0,MBA,Mumbai,3.0,813000.0,771500.0,20,Designation +/-2 yrs experience,41500.0,5.4,Within range
+EMP_120,Senior Software Engineer,9,Master's,Bangalore,4.0,1981000.0,1758000.0,16,Designation +/-2 yrs experience,223000.0,12.7,Within range
+EMP_119,HR Executive,1,Master's,Pune,5.0,705000.0,655000.0,27,Designation +/-2 yrs experience,50000.0,7.6,Within range
+EMP_026,Data Analyst,0,Bachelor's,Mumbai,4.0,733000.0,792500.0,20,Designation +/-2 yrs experience,-59500.0,-7.5,Within range
+EMP_245,Junior Developer,0,Master's,Chennai,4.0,682000.0,598500.0,40,Designation +/-2 yrs experience,83500.0,14.0,Within range
+EMP_020,Software Engineer,6,Diploma,Delhi,2.0,1110000.0,1071000.0,32,Designation +/-2 yrs experience,39000.0,3.6,Within range
+EMP_078,Junior Developer,1,Bachelor's,Mumbai,3.0,548000.0,614000.0,40,Designation +/-2 yrs experience,-66000.0,-10.7,Within range
+EMP_217,Software Engineer,5,Bachelor's,Bangalore,2.0,1101000.0,1046000.0,55,Designation +/-2 yrs experience,55000.0,5.3,Within range
+EMP_091,Junior Developer,0,Bachelor's,Delhi,2.0,414000.0,614000.0,40,Designation +/-2 yrs experience,-200000.0,-32.6,Review Candidate - below peer median
+EMP_209,Junior Developer,0,Master's,Mumbai,2.0,404000.0,614000.0,40,Designation +/-2 yrs experience,-210000.0,-34.2,Review Candidate - below peer median
+EMP_094,Senior Software Engineer,11,Master's,Bangalore,2.0,2111000.0,1834500.0,16,Designation +/-2 yrs experience,276500.0,15.1,Within range
+EMP_181,Software Engineer,5,PhD,Chennai,4.0,1132000.0,1046000.0,55,Designation +/-2 yrs experience,86000.0,8.2,Within range
+EMP_016,Software Engineer,4,Bachelor's,Mumbai,2.0,945000.0,1018000.0,65,Designation +/-2 yrs experience,-73000.0,-7.2,Within range
+EMP_153,Junior Developer,0,Master's,Mumbai,4.0,642000.0,598500.0,40,Designation +/-2 yrs experience,43500.0,7.3,Within range
+EMP_116,Data Analyst,2,Master's,Bangalore,2.0,983000.0,771500.0,20,Designation +/-2 yrs experience,211500.0,27.4,Review Candidate - above peer median
+EMP_185,Software Engineer,4,Bachelor's,Hyderabad,4.0,1094000.0,1009000.0,65,Designation +/-2 yrs experience,85000.0,8.4,Within range
+EMP_143,Senior Software Engineer,9,Bachelor's,Delhi,3.0,1862000.0,1758000.0,16,Designation +/-2 yrs experience,104000.0,5.9,Within range
+EMP_038,Junior Developer,1,Master's,Hyderabad,4.0,677000.0,598500.0,40,Designation +/-2 yrs experience,78500.0,13.1,Within range
+EMP_017,Software Engineer,3,Bachelor's,Pune,4.0,1018000.0,972000.0,57,Designation +/-2 yrs experience,46000.0,4.7,Within range
+EMP_076,Project Manager,3,Bachelor's,Hyderabad,3.0,891000.0,1691000.0,11,Designation +/-2 yrs experience,-800000.0,-47.3,Review Candidate - below peer median
+EMP_149,Junior Developer,0,Master's,Bangalore,5.0,797000.0,598500.0,40,Designation +/-2 yrs experience,198500.0,33.2,Review Candidate - above peer median
+EMP_011,Junior Developer,1,Bachelor's,Chennai,5.0,595000.0,614000.0,40,Designation +/-2 yrs experience,-19000.0,-3.1,Within range
+EMP_234,Senior Software Engineer,9,Bachelor's,Delhi,2.0,1670000.0,1790500.0,16,Designation +/-2 yrs experience,-120500.0,-6.7,Within range
+EMP_067,Junior Developer,2,Bachelor's,Hyderabad,1.0,449000.0,614000.0,40,Designation +/-2 yrs experience,-165000.0,-26.9,Review Candidate - below peer median
+EMP_254,Software Engineer,3,Bachelor's,Mumbai,4.0,1046000.0,972000.0,57,Designation +/-2 yrs experience,74000.0,7.6,Within range
+EMP_226,Software Engineer,5,Bachelor's,Hyderabad,2.0,870000.0,1052000.0,55,Designation +/-2 yrs experience,-182000.0,-17.3,Within range
+EMP_183,HR Executive,0,MBA,Hyderabad,4.0,655000.0,670000.0,27,Designation +/-2 yrs experience,-15000.0,-2.2,Within range
+EMP_074,Data Analyst,1,Master's,Hyderabad,3.0,927000.0,771500.0,20,Designation +/-2 yrs experience,155500.0,20.2,Within range
+EMP_019,Senior Software Engineer,12,Master's,Delhi,5.0,2125000.0,1884000.0,8,Designation +/-2 yrs experience,241000.0,12.8,Within range
+EMP_102,Tech Lead,16,Bachelor's,Mumbai,3.0,2727000.0,2698000.0,11,Designation +/-2 yrs experience,29000.0,1.1,Within range
+EMP_196,Software Engineer,2,Bachelor's,Bangalore,2.0,853000.0,968000.0,41,Designation +/-2 yrs experience,-115000.0,-11.9,Within range
+EMP_113,HR Executive,2,MBA,Mumbai,3.0,866000.0,655000.0,27,Designation +/-2 yrs experience,211000.0,32.2,Review Candidate - above peer median
+EMP_171,Tech Lead,11,Bachelor's,Bangalore,1.0,2353000.0,2372500.0,12,Designation +/-2 yrs experience,-19500.0,-0.8,Within range
+EMP_087,Project Manager,6,Bachelor's,Bangalore,3.0,1847000.0,1729500.0,16,Designation +/-2 yrs experience,117500.0,6.8,Within range
+EMP_056,Intern,1,Bachelor's,Mumbai,5.0,785000.0,,0,Not assessed (too few peers),,,Not assessed
+EMP_201,Tech Lead,16,Master's,Mumbai,1.0,2773000.0,2698000.0,11,Designation +/-2 yrs experience,75000.0,2.8,Within range
+EMP_039,Project Manager,6,Bachelor's,Pune,4.0,1702000.0,1763500.0,16,Designation +/-2 yrs experience,-61500.0,-3.5,Within range
+EMP_155,HR Executive,2,MBA,Remote,5.0,783000.0,655000.0,27,Designation +/-2 yrs experience,128000.0,19.5,Within range
+EMP_085,Software Engineer,3,Bachelor's,Delhi,3.0,831000.0,991000.0,57,Designation +/-2 yrs experience,-160000.0,-16.1,Within range
+EMP_252,Software Engineer,3,Bachelor's,Hyderabad,5.0,1074000.0,972000.0,57,Designation +/-2 yrs experience,102000.0,10.5,Within range
+EMP_093,Project Manager,6,MBA,Chennai,5.0,1783000.0,1729500.0,16,Designation +/-2 yrs experience,53500.0,3.1,Within range
+EMP_202,Junior Developer,1,MBA,Chennai,4.0,323000.0,614000.0,40,Designation +/-2 yrs experience,-291000.0,-47.4,Review Candidate - below peer median
+EMP_127,Data Analyst,0,Master's,Hyderabad,5.0,756000.0,792500.0,20,Designation +/-2 yrs experience,-36500.0,-4.6,Within range
+EMP_125,Software Engineer,4,Master's,Mumbai,4.0,1121000.0,1009000.0,65,Designation +/-2 yrs experience,112000.0,11.1,Within range
+EMP_182,Junior Developer,1,Bachelor's,Hyderabad,4.0,602000.0,610500.0,40,Designation +/-2 yrs experience,-8500.0,-1.4,Within range
+EMP_112,Software Engineer,6,Master's,Chennai,4.0,1052000.0,1085500.0,32,Designation +/-2 yrs experience,-33500.0,-3.1,Within range
+EMP_230,Tech Lead,14,Master's,Bangalore,4.0,2907000.0,2529000.0,10,Designation +/-2 yrs experience,378000.0,14.9,Within range
+EMP_258,Project Manager,6,Bachelor's,Bangalore,3.0,1919000.0,1729500.0,16,Designation +/-2 yrs experience,189500.0,11.0,Within range
+EMP_194,Tech Lead,12,Bachelor's,Delhi,2.0,2325000.0,2473000.0,14,Designation +/-2 yrs experience,-148000.0,-6.0,Within range
+EMP_156,Software Engineer,3,Bachelor's,Pune,5.0,971000.0,991000.0,57,Designation +/-2 yrs experience,-20000.0,-2.0,Within range
+EMP_070,HR Executive,2,Master's,Hyderabad,4.0,670000.0,655000.0,27,Designation +/-2 yrs experience,15000.0,2.3,Within range
+EMP_003,Project Manager,4,MBA,Hyderabad,2.0,1646000.0,1729500.0,20,Designation +/-2 yrs experience,-83500.0,-4.8,Within range
+EMP_077,Project Manager,6,Master's,Bangalore,3.0,2113000.0,1729500.0,16,Designation +/-2 yrs experience,383500.0,22.2,Within range
+EMP_148,Senior Software Engineer,5,Bachelor's,Chennai,3.0,1397000.0,1575500.0,8,Designation +/-2 yrs experience,-178500.0,-11.3,Within range
+EMP_140,HR Executive,2,Bachelor's,Bangalore,4.0,621000.0,670000.0,27,Designation +/-2 yrs experience,-49000.0,-7.3,Within range
+EMP_144,Software Engineer,4,Bachelor's,Hyderabad,4.0,931000.0,1018000.0,65,Designation +/-2 yrs experience,-87000.0,-8.5,Within range
+EMP_097,Senior Software Engineer,6,Bachelor's,Chennai,2.0,1521000.0,1608000.0,11,Designation +/-2 yrs experience,-87000.0,-5.4,Within range
+EMP_109,Software Engineer,6,Bachelor's,Chennai,3.0,1055000.0,1085500.0,32,Designation +/-2 yrs experience,-30500.0,-2.8,Within range
+EMP_141,HR Executive,0,Bachelor's,Bangalore,4.0,551000.0,670000.0,27,Designation +/-2 yrs experience,-119000.0,-17.8,Within range
+EMP_174,Software Engineer,3,Bachelor's,Mumbai,2.0,860000.0,991000.0,57,Designation +/-2 yrs experience,-131000.0,-13.2,Within range
+EMP_220,Data Analyst,1,Bachelor's,Chennai,3.0,752000.0,792500.0,20,Designation +/-2 yrs experience,-40500.0,-5.1,Within range
+EMP_075,Project Manager,6,Bachelor's,Hyderabad,5.0,1744000.0,1749000.0,16,Designation +/-2 yrs experience,-5000.0,-0.3,Within range
+EMP_118,Software Engineer,3,Bachelor's,Bangalore,2.0,962000.0,991000.0,57,Designation +/-2 yrs experience,-29000.0,-2.9,Within range
+EMP_030,Junior Developer,2,Master's,Mumbai,2.0,773000.0,598500.0,40,Designation +/-2 yrs experience,174500.0,29.2,Review Candidate - above peer median
+EMP_216,Software Engineer,2,Bachelor's,Mumbai,,936000.0,968000.0,41,Designation +/-2 yrs experience,-32000.0,-3.3,Within range
+EMP_193,HR Executive,2,Master's,Delhi,5.0,786000.0,655000.0,27,Designation +/-2 yrs experience,131000.0,20.0,Within range
+EMP_235,Software Engineer,3,Master's,Pune,5.0,972000.0,991000.0,57,Designation +/-2 yrs experience,-19000.0,-1.9,Within range
+EMP_178,Software Engineer,6,MBA,Bangalore,5.0,1414000.0,1071000.0,32,Designation +/-2 yrs experience,343000.0,32.0,Review Candidate - above peer median
+EMP_006,Junior Developer,1,MBA,Bangalore,5.0,729000.0,598500.0,40,Designation +/-2 yrs experience,130500.0,21.8,Within range
+EMP_057,Junior Developer,0,Bachelor's,Hyderabad,4.0,419000.0,614000.0,40,Designation +/-2 yrs experience,-195000.0,-31.8,Review Candidate - below peer median
+EMP_260,Junior Developer,0,Bachelor's,Chennai,5.0,579000.0,614000.0,40,Designation +/-2 yrs experience,-35000.0,-5.7,Within range
+EMP_165,Junior Developer,1,Bachelor's,Hyderabad,5.0,626000.0,598500.0,40,Designation +/-2 yrs experience,27500.0,4.6,Within range
+EMP_066,Senior Software Engineer,10,Bachelor's,Pune,4.0,2950000.0,1818000.0,19,Designation +/-2 yrs experience,1132000.0,62.3,Review Candidate - above peer median
+EMP_158,Project Manager,3,Master's,Mumbai,3.0,1790000.0,1646000.0,11,Designation +/-2 yrs experience,144000.0,8.7,Within range
+EMP_086,Software Engineer,2,Bachelor's,Bangalore,5.0,1009000.0,962000.0,41,Designation +/-2 yrs experience,47000.0,4.9,Within range
+EMP_115,Tech Lead,12,Master's,Bangalore,1.0,2467000.0,2443500.0,14,Designation +/-2 yrs experience,23500.0,1.0,Within range
+EMP_246,HR Executive,1,Bachelor's,Chennai,3.0,564000.0,670000.0,27,Designation +/-2 yrs experience,-106000.0,-15.8,Within range
+EMP_032,Software Engineer,3,Master's,Mumbai,5.0,1166000.0,972000.0,57,Designation +/-2 yrs experience,194000.0,20.0,Within range
+EMP_013,Data Analyst,0,Bachelor's,Hyderabad,3.0,811000.0,771500.0,20,Designation +/-2 yrs experience,39500.0,5.1,Within range
+EMP_036,Data Analyst,2,MBA,Hyderabad,4.0,1006000.0,771500.0,20,Designation +/-2 yrs experience,234500.0,30.4,Review Candidate - above peer median
+EMP_029,Tech Lead,14,Bachelor's,Mumbai,2.0,2479000.0,2549500.0,10,Designation +/-2 yrs experience,-70500.0,-2.8,Within range
+EMP_133,Junior Developer,0,Bachelor's,Bangalore,4.0,470000.0,614000.0,40,Designation +/-2 yrs experience,-144000.0,-23.5,Within range
+EMP_052,Project Manager,5,Bachelor's,Bangalore,1.0,1692000.0,1763500.0,18,Designation +/-2 yrs experience,-71500.0,-4.1,Within range
+EMP_096,Senior Software Engineer,8,Master's,Hyderabad,1.0,1663000.0,1724000.0,19,Designation +/-2 yrs experience,-61000.0,-3.5,Within range
+EMP_168,Software Engineer,4,Bachelor's,Bangalore,3.0,961000.0,1018000.0,65,Designation +/-2 yrs experience,-57000.0,-5.6,Within range
+EMP_042,Senior Software Engineer,6,Bachelor's,Hyderabad,5.0,1562000.0,1608000.0,11,Designation +/-2 yrs experience,-46000.0,-2.9,Within range
+EMP_247,Senior Software Engineer,6,Bachelor's,Bangalore,1.0,1589000.0,1608000.0,11,Designation +/-2 yrs experience,-19000.0,-1.2,Within range
+EMP_177,Project Manager,2,Bachelor's,Mumbai,2.0,1546000.0,1646000.0,7,Designation +/-2 yrs experience,-100000.0,-6.1,Within range
+EMP_027,Software Engineer,5,Bachelor's,Mumbai,4.0,1065000.0,1046000.0,55,Designation +/-2 yrs experience,19000.0,1.8,Within range
+EMP_142,Software Engineer,2,Master's,Hyderabad,3.0,938000.0,968000.0,41,Designation +/-2 yrs experience,-30000.0,-3.1,Within range
+EMP_160,Project Manager,2,Master's,Bangalore,3.0,1691000.0,1604000.0,7,Designation +/-2 yrs experience,87000.0,5.4,Within range
+EMP_232,Senior Software Engineer,11,MBA,Bangalore,3.0,2134000.0,1834500.0,16,Designation +/-2 yrs experience,299500.0,16.3,Within range
+EMP_101,Junior Developer,1,Bachelor's,Pune,3.0,503000.0,614000.0,40,Designation +/-2 yrs experience,-111000.0,-18.1,Within range
+EMP_242,HR Executive,2,Bachelor's,Bangalore,2.0,769000.0,655000.0,27,Designation +/-2 yrs experience,114000.0,17.4,Within range
+EMP_203,Software Engineer,2,Bachelor's,Mumbai,3.0,1335000.0,962000.0,41,Designation +/-2 yrs experience,373000.0,38.8,Review Candidate - above peer median
+EMP_099,Junior Developer,2,Bachelor's,Mumbai,3.0,781000.0,598500.0,40,Designation +/-2 yrs experience,182500.0,30.5,Review Candidate - above peer median
+EMP_037,Software Engineer,2,Bachelor's,Pune,5.0,925000.0,968000.0,41,Designation +/-2 yrs experience,-43000.0,-4.4,Within range
+EMP_062,Software Engineer,6,Bachelor's,Pune,2.0,630000.0,1085500.0,32,Designation +/-2 yrs experience,-455500.0,-42.0,Review Candidate - below peer median
+EMP_151,HR Executive,2,Master's,Bangalore,3.0,741000.0,655000.0,27,Designation +/-2 yrs experience,86000.0,13.1,Within range
+EMP_213,Junior Developer,16,Master's,Bangalore,,2744000.0,602000.0,41,Designation only (fallback),2142000.0,355.8,Review Candidate - above peer median
+EMP_012,HR Executive,2,Master's,Hyderabad,2.0,747000.0,655000.0,27,Designation +/-2 yrs experience,92000.0,14.0,Within range
+EMP_231,Data Analyst,0,Bachelor's,Pune,4.0,769000.0,792500.0,20,Designation +/-2 yrs experience,-23500.0,-3.0,Within range
+EMP_028,Senior Software Engineer,7,Bachelor's,Mumbai,3.0,1763000.0,1654500.0,18,Designation +/-2 yrs experience,108500.0,6.6,Within range
+EMP_179,HR Executive,0,Bachelor's,Hyderabad,3.0,535000.0,670000.0,27,Designation +/-2 yrs experience,-135000.0,-20.1,Within range
+EMP_005,Junior Developer,1,Bachelor's,Hyderabad,3.0,456000.0,614000.0,40,Designation +/-2 yrs experience,-158000.0,-25.7,Review Candidate - below peer median
+EMP_123,Software Engineer,3,Master's,Chennai,5.0,1068000.0,972000.0,57,Designation +/-2 yrs experience,96000.0,9.9,Within range
+EMP_033,Junior Developer,2,Bachelor's,Pune,1.0,491000.0,614000.0,40,Designation +/-2 yrs experience,-123000.0,-20.0,Within range
+EMP_205,Tech Lead,11,Bachelor's,Pune,1.0,2022000.0,2380500.0,12,Designation +/-2 yrs experience,-358500.0,-15.1,Within range
+EMP_163,Tech Lead,17,Bachelor's,Hyderabad,1.0,2643000.0,2750000.0,8,Designation +/-2 yrs experience,-107000.0,-3.9,Within range
+EMP_169,Junior Developer,0,Bachelor's,Chennai,1.0,356000.0,614000.0,40,Designation +/-2 yrs experience,-258000.0,-42.0,Review Candidate - below peer median
+EMP_207,Junior Developer,1,Bachelor's,Pune,4.0,637000.0,598500.0,40,Designation +/-2 yrs experience,38500.0,6.4,Within range
+EMP_139,Software Engineer,3,Master's,Bangalore,4.0,1099000.0,972000.0,57,Designation +/-2 yrs experience,127000.0,13.1,Within range
+EMP_063,Data Analyst,1,Bachelor's,Mumbai,2.0,759000.0,792500.0,20,Designation +/-2 yrs experience,-33500.0,-4.2,Within range
+EMP_136,Software Engineer,5,Master's,Chennai,3.0,949000.0,1052000.0,55,Designation +/-2 yrs experience,-103000.0,-9.8,Within range
+EMP_129,Junior Developer,0,Master's,Delhi,2.0,561000.0,614000.0,40,Designation +/-2 yrs experience,-53000.0,-8.6,Within range
+EMP_072,Software Engineer,3,Bachelor's,Hyderabad,3.0,991000.0,972000.0,57,Designation +/-2 yrs experience,19000.0,2.0,Within range
+EMP_244,Software Engineer,5,Master's,Pune,3.0,1077000.0,1046000.0,55,Designation +/-2 yrs experience,31000.0,3.0,Within range
+EMP_223,Junior Developer,2,MBA,Hyderabad,2.0,638000.0,598500.0,40,Designation +/-2 yrs experience,39500.0,6.6,Within range
+EMP_045,Software Engineer,5,Bachelor's,Bangalore,4.0,1147000.0,1046000.0,55,Designation +/-2 yrs experience,101000.0,9.7,Within range
+EMP_187,Data Analyst,2,Master's,Hyderabad,5.0,1007000.0,771500.0,20,Designation +/-2 yrs experience,235500.0,30.5,Review Candidate - above peer median
+EMP_157,Tech Lead,10,PhD,Bangalore,3.0,2537000.0,2337000.0,13,Designation +/-2 yrs experience,200000.0,8.6,Within range
+EMP_041,Junior Developer,1,Bachelor's,Pune,2.0,470000.0,614000.0,40,Designation +/-2 yrs experience,-144000.0,-23.5,Within range
+EMP_124,Junior Developer,1,PhD,Bangalore,5.0,968000.0,598500.0,40,Designation +/-2 yrs experience,369500.0,61.7,Review Candidate - above peer median
+EMP_154,Senior Software Engineer,9,Bachelor's,Bangalore,1.0,1840000.0,1758000.0,16,Designation +/-2 yrs experience,82000.0,4.7,Within range
+EMP_024,Software Engineer,5,Bachelor's,Pune,3.0,895000.0,1052000.0,55,Designation +/-2 yrs experience,-157000.0,-14.9,Within range
+EMP_214,Software Engineer,4,Master's,Mumbai,3.0,2005000.0,1009000.0,65,Designation +/-2 yrs experience,996000.0,98.7,Review Candidate - above peer median
+EMP_082,Tech Lead,17,Bachelor's,Pune,4.0,2480000.0,2750000.0,8,Designation +/-2 yrs experience,-270000.0,-9.8,Within range
+EMP_040,Senior Software Engineer,10,Bachelor's,Delhi,3.0,1818000.0,1829000.0,19,Designation +/-2 yrs experience,-11000.0,-0.6,Within range
+EMP_241,HR Executive,2,PhD,Chennai,3.0,728000.0,655000.0,27,Designation +/-2 yrs experience,73000.0,11.1,Within range
+EMP_048,Senior Software Engineer,8,MBA,Chennai,5.0,1623000.0,1724000.0,19,Designation +/-2 yrs experience,-101000.0,-5.9,Within range
+EMP_095,Project Manager,4,Master's,Pune,1.0,1604000.0,1729500.0,20,Designation +/-2 yrs experience,-125500.0,-7.3,Within range
+EMP_221,Tech Lead,12,Bachelor's,Hyderabad,4.0,2408000.0,2473000.0,14,Designation +/-2 yrs experience,-65000.0,-2.6,Within range
+EMP_237,Software Engineer,3,MBA,Mumbai,4.0,1115000.0,972000.0,57,Designation +/-2 yrs experience,143000.0,14.7,Within range
+EMP_162,Tech Lead,15,Bachelor's,Hyderabad,5.0,2698000.0,2727000.0,11,Designation +/-2 yrs experience,-29000.0,-1.1,Within range
+EMP_191,Junior Developer,0,Master's,Hyderabad,3.0,442000.0,614000.0,40,Designation +/-2 yrs experience,-172000.0,-28.0,Review Candidate - below peer median
+EMP_212,Project Manager,6,Master's,Mumbai,4.0,2067000.0,1729500.0,16,Designation +/-2 yrs experience,337500.0,19.5,Within range
+EMP_004,Tech Lead,17,MBA,Hyderabad,4.0,2865000.0,2712500.0,8,Designation +/-2 yrs experience,152500.0,5.6,Within range
+EMP_106,Software Engineer,2,Bachelor's,Chennai,4.0,873000.0,968000.0,41,Designation +/-2 yrs experience,-95000.0,-9.8,Within range
+EMP_054,HR Executive,2,Master's,Pune,1.0,586000.0,670000.0,27,Designation +/-2 yrs experience,-84000.0,-12.5,Within range
+EMP_134,Software Engineer,5,Bachelor's,Hyderabad,2.0,1061000.0,1046000.0,55,Designation +/-2 yrs experience,15000.0,1.4,Within range
+EMP_002,HR Executive,2,Master's,Bangalore,4.0,838000.0,655000.0,27,Designation +/-2 yrs experience,183000.0,27.9,Review Candidate - above peer median
+EMP_224,Software Engineer,5,Bachelor's,Chennai,4.0,899000.0,1052000.0,55,Designation +/-2 yrs experience,-153000.0,-14.5,Within range
+EMP_050,Software Engineer,2,Bachelor's,Hyderabad,4.0,950000.0,968000.0,41,Designation +/-2 yrs experience,-18000.0,-1.9,Within range
+EMP_164,Senior Software Engineer,6,Bachelor's,Hyderabad,3.0,1505000.0,1608000.0,11,Designation +/-2 yrs experience,-103000.0,-6.4,Within range
+EMP_081,Data Analyst,0,Master's,Hyderabad,3.0,767000.0,792500.0,20,Designation +/-2 yrs experience,-25500.0,-3.2,Within range
+EMP_206,Junior Developer,0,Bachelor's,Delhi,4.0,591000.0,614000.0,40,Designation +/-2 yrs experience,-23000.0,-3.7,Within range
+EMP_035,HR Executive,1,MBA,Bangalore,3.0,780000.0,655000.0,27,Designation +/-2 yrs experience,125000.0,19.1,Within range
+EMP_238,Junior Developer,0,Master's,Hyderabad,3.0,454000.0,614000.0,40,Designation +/-2 yrs experience,-160000.0,-26.1,Review Candidate - below peer median
+EMP_008,Data Analyst,0,Bachelor's,Chennai,4.0,697000.0,792500.0,20,Designation +/-2 yrs experience,-95500.0,-12.1,Within range
+EMP_172,Junior Developer,1,Bachelor's,Delhi,3.0,927000.0,598500.0,40,Designation +/-2 yrs experience,328500.0,54.9,Review Candidate - above peer median
+EMP_199,HR Executive,0,Master's,Pune,3.0,550000.0,670000.0,27,Designation +/-2 yrs experience,-120000.0,-17.9,Within range
+EMP_243,HR Executive,1,Master's,Hyderabad,4.0,713000.0,655000.0,27,Designation +/-2 yrs experience,58000.0,8.9,Within range
+EMP_111,Software Engineer,3,Bachelor's,Chennai,4.0,905000.0,991000.0,57,Designation +/-2 yrs experience,-86000.0,-8.7,Within range
+EMP_092,Project Manager,6,Master's,Chennai,3.0,1680000.0,1763500.0,16,Designation +/-2 yrs experience,-83500.0,-4.7,Within range
+EMP_084,Junior Developer,0,Master's,Mumbai,3.0,577000.0,614000.0,40,Designation +/-2 yrs experience,-37000.0,-6.0,Within range
+EMP_053,HR Executive,0,Bachelor's,Pune,4.0,551000.0,670000.0,27,Designation +/-2 yrs experience,-119000.0,-17.8,Within range
+EMP_090,Senior Software Engineer,12,Master's,Pune,1.0,1829000.0,2025000.0,8,Designation +/-2 yrs experience,-196000.0,-9.7,Within range
+EMP_009,Tech Lead,16,Master's,Chennai,5.0,2511000.0,2727000.0,11,Designation +/-2 yrs experience,-216000.0,-7.9,Within range
+EMP_014,Software Engineer,3,Bachelor's,Mumbai,,862000.0,991000.0,57,Designation +/-2 yrs experience,-129000.0,-13.0,Within range
+EMP_132,Software Engineer,3,MBA,Delhi,3.0,1008000.0,972000.0,57,Designation +/-2 yrs experience,36000.0,3.7,Within range
+EMP_018,Senior Software Engineer,5,Master's,Bangalore,4.0,1608000.0,1541500.0,8,Designation +/-2 yrs experience,66500.0,4.3,Within range
+EMP_167,Software Engineer,3,MBA,Chennai,3.0,914000.0,991000.0,57,Designation +/-2 yrs experience,-77000.0,-7.8,Within range
+EMP_073,Junior Developer,2,MBA,Hyderabad,4.0,714000.0,598500.0,40,Designation +/-2 yrs experience,115500.0,19.3,Within range
+EMP_255,Software Engineer,4,Master's,Bangalore,3.0,662000.0,1018000.0,65,Designation +/-2 yrs experience,-356000.0,-35.0,Review Candidate - below peer median
+EMP_135,HR Executive,2,Master's,Chennai,1.0,494000.0,670000.0,27,Designation +/-2 yrs experience,-176000.0,-26.3,Review Candidate - below peer median
+EMP_250,Data Analyst,1,MBA,Bangalore,5.0,1015000.0,771500.0,20,Designation +/-2 yrs experience,243500.0,31.6,Review Candidate - above peer median
+EMP_229,HR Executive,0,Bachelor's,Bangalore,2.0,545000.0,670000.0,27,Designation +/-2 yrs experience,-125000.0,-18.7,Within range
+EMP_259,Senior Software Engineer,9,MBA,Delhi,2.0,1753000.0,1790500.0,16,Designation +/-2 yrs experience,-37500.0,-2.1,Within range
+EMP_064,Software Engineer,5,Master's,Chennai,3.0,1114000.0,1046000.0,55,Designation +/-2 yrs experience,68000.0,6.5,Within range
+EMP_055,Tech Lead,11,Bachelor's,Chennai,,2202000.0,2380500.0,12,Designation +/-2 yrs experience,-178500.0,-7.5,Within range
+EMP_108,Project Manager,5,Bachelor's,Delhi,3.0,1615000.0,1763500.0,18,Designation +/-2 yrs experience,-148500.0,-8.4,Within range
+EMP_051,HR Executive,0,Bachelor's,Bangalore,4.0,642000.0,670000.0,27,Designation +/-2 yrs experience,-28000.0,-4.2,Within range
+EMP_239,Tech Lead,10,MBA,Mumbai,4.0,2491000.0,2337000.0,13,Designation +/-2 yrs experience,154000.0,6.6,Within range
+EMP_240,Software Engineer,6,Bachelor's,Hyderabad,4.0,1102000.0,1071000.0,32,Designation +/-2 yrs experience,31000.0,2.9,Within range
+EMP_190,Software Engineer,3,Bachelor's,Delhi,2.0,836000.0,991000.0,57,Designation +/-2 yrs experience,-155000.0,-15.6,Within range
+EMP_015,Software Engineer,3,Bachelor's,Chennai,3.0,790000.0,991000.0,57,Designation +/-2 yrs experience,-201000.0,-20.3,Within range
+EMP_208,Tech Lead,10,Bachelor's,Bangalore,3.0,2535000.0,2337000.0,13,Designation +/-2 yrs experience,198000.0,8.5,Within range
+EMP_256,Senior Software Engineer,6,Master's,Mumbai,4.0,1724000.0,1589000.0,11,Designation +/-2 yrs experience,135000.0,8.5,Within range
+EMP_170,Tech Lead,14,Bachelor's,Mumbai,4.0,2547000.0,2531500.0,10,Designation +/-2 yrs experience,15500.0,0.6,Within range
+EMP_219,Tech Lead,10,Master's,Mumbai,1.0,2337000.0,2353000.0,13,Designation +/-2 yrs experience,-16000.0,-0.7,Within range
+EMP_049,Senior Software Engineer,9,Bachelor's,Bangalore,5.0,1966000.0,1758000.0,16,Designation +/-2 yrs experience,208000.0,11.8,Within range
+EMP_089,HR Executive,0,Bachelor's,Bangalore,5.0,639000.0,670000.0,27,Designation +/-2 yrs experience,-31000.0,-4.6,Within range
+EMP_236,Software Engineer,3,PhD,Pune,5.0,1852000.0,972000.0,57,Designation +/-2 yrs experience,880000.0,90.5,Review Candidate - above peer median
+EMP_022,Junior Developer,2,Master's,Bangalore,3.0,822000.0,598500.0,40,Designation +/-2 yrs experience,223500.0,37.3,Review Candidate - above peer median
+EMP_058,Software Engineer,5,Bachelor's,Pune,3.0,1041000.0,1052000.0,55,Designation +/-2 yrs experience,-11000.0,-1.0,Within range
+EMP_204,HR Executive,0,Bachelor's,Pune,5.0,524000.0,670000.0,27,Designation +/-2 yrs experience,-146000.0,-21.8,Within range
+EMP_161,Software Engineer,3,Bachelor's,Pune,1.0,723000.0,991000.0,57,Designation +/-2 yrs experience,-268000.0,-27.0,Review Candidate - below peer median
+EMP_188,Senior Software Engineer,12,Bachelor's,Pune,3.0,1939000.0,1970000.0,8,Designation +/-2 yrs experience,-31000.0,-1.6,Within range
+EMP_192,HR Executive,2,MBA,Mumbai,3.0,823000.0,655000.0,27,Designation +/-2 yrs experience,168000.0,25.6,Review Candidate - above peer median
+EMP_150,Software Engineer,3,Bachelor's,Bangalore,5.0,1115000.0,972000.0,57,Designation +/-2 yrs experience,143000.0,14.7,Within range
+EMP_131,Senior Software Engineer,12,Bachelor's,Chennai,4.0,1756000.0,2025000.0,8,Designation +/-2 yrs experience,-269000.0,-13.3,Within range
+EMP_152,Software Engineer,5,Bachelor's,Bangalore,4.0,1291000.0,1046000.0,55,Designation +/-2 yrs experience,245000.0,23.4,Within range
+EMP_100,Junior Developer,0,Bachelor's,Chennai,4.0,808000.0,598500.0,40,Designation +/-2 yrs experience,209500.0,35.0,Review Candidate - above peer median
+EMP_088,Tech Lead,12,Bachelor's,Bangalore,3.0,2552000.0,2437500.0,14,Designation +/-2 yrs experience,114500.0,4.7,Within range
+EMP_215,Project Manager,5,Master's,Bangalore,1.0,1839000.0,1729500.0,18,Designation +/-2 yrs experience,109500.0,6.3,Within range
+EMP_021,Tech Lead,17,Master's,Bangalore,4.0,3148000.0,2712500.0,8,Designation +/-2 yrs experience,435500.0,16.1,Within range
+EMP_189,Senior Software Engineer,8,Bachelor's,Mumbai,2.0,1646000.0,1724000.0,19,Designation +/-2 yrs experience,-78000.0,-4.5,Within range
+EMP_107,Senior Software Engineer,10,Bachelor's,Mumbai,1.0,1705000.0,1829000.0,19,Designation +/-2 yrs experience,-124000.0,-6.8,Within range
+EMP_103,Software Engineer,6,MBA,Bangalore,2.0,1341000.0,1071000.0,32,Designation +/-2 yrs experience,270000.0,25.2,Review Candidate - above peer median

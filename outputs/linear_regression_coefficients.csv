@@ -1,0 +1,20 @@
+feature,coefficient,n_in_data
+Designation_Data Analyst,-39287.0,21.0
+Designation_HR Executive,-227008.0,28.0
+Designation_Intern,-185994.0,1.0
+Designation_Junior Developer,-242092.0,41.0
+Designation_Project Manager,617071.0,21.0
+Designation_Senior Software Engineer,380502.0,29.0
+Designation_Tech Lead,831550.0,24.0
+Education_Diploma,32893.0,1.0
+Education_MBA,87532.0,30.0
+Education_Master's,108214.0,66.0
+Education_PhD,292784.0,7.0
+Location_Chennai,-235075.0,34.0
+Location_Delhi,-96611.0,18.0
+Location_Hyderabad,-142060.0,49.0
+Location_Mumbai,-16615.0,38.0
+Location_Pune,-149738.0,31.0
+Location_Remote,-134271.0,1.0
+Experience,69137.0,
+Performance_Score,53192.0,
